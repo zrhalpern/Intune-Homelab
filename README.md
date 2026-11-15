@@ -19,9 +19,8 @@ This is documentation of me setting up my Intune homelab.
 <h2>Walk-through:</h2>
 
 <p align="center">
-Setting up Intune Administrator security group in Entra ID: <br/>
+Setting up Intune Administrator security group in Entra ID. Added admin account to the group as a member and owner of the SG - Intune - Intune Administrator group. Associated the Intune Administrator role to the SG - Intune - Intune Administrator group in Entra ID: <br/>
 <img src="https://i.imgur.com/tuGUA39.png" height="80%" width="80%" alt="Setting up Intune Administrator security group in Entra ID"/>
- Added admin account to the group as a member and owner of the SG - Intune - Intune Administrator group. Associated the Intune Administrator role to the SG - Intune - Intune Administrator group in Entra ID.
 <br />
 <br />
 </p>
