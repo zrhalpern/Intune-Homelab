@@ -39,7 +39,7 @@ Configuring the ability for users to join devices to Entra ID. This is configure
 <p align="center">
 Because we selected "No" to "Require Multifactor Authentication to register or join devices with Microsoft Entra" we must create a Conditional Access Policy. This was configured in Microsoft Entra Conditional Access > Create new policy > titled it "require MFA to register or join devices with Microsoft Entra" > Target resources were "User actions" and "Register or join devices" > Grant was set to "Require authentication strength" with "Multifactor authentication" (Combinations of methods that satisfy strong authentication, such as Password + SMS): <br/>
 <img src="https://i.imgur.com/wOQv3nC.png" height="50%" width="50%" alt="Configuring the ability for users to join devices to Entra ID"/>
-<img src="https://i.imgur.com/gXRX6U0.png" height="50%" width="50%" alt="Configuring the ability for users to join devices to Entra ID"/>
+<img src="https://i.imgur.com/gXRX6U0.png" height="25%" width="50%" alt="Configuring the ability for users to join devices to Entra ID"/>
 <br />
 <br />
 </p>
