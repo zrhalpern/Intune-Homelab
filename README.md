@@ -43,6 +43,16 @@ Because we selected "No" to "Require Multifactor Authentication to register or j
 <br />
 <br />
 </p>
+<p align="center">
+Imported devices using PowerShell:<br/>
+<br />
+<br />
+</p>
+<p align="center">
+Created dynamic device group for dynamic association for any device where the group tag is "Finance":<br/>
+<br />
+<br />
+</p>
 
 <!--
  ```diff
