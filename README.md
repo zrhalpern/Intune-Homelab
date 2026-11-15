@@ -53,6 +53,26 @@ Created dynamic device group for dynamic association for any device where the gr
 <br />
 <br />
 </p>
+<p align="center">
+Created the Entra Joined Enrollment Status Page<br/>
+<br />
+<br />
+</p>
+<p align="center">
+Created the Finance department Entra Joined deployment profile<br/>
+<br />
+<br />
+</p>
+<p align="center">
+Assigned the user and group tag to the device<br/>
+<br />
+<br />
+</p>
+<p align="center">
+Ran the pre-provisioning<br/>
+<br />
+<br />
+</p>
 
 <!--
  ```diff
