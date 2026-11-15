@@ -23,9 +23,16 @@ Setting up Intune Administrator security group in Entra ID. Added admin account 
 <img src="https://i.imgur.com/tuGUA39.png" height="100%" width="100%" alt="Setting up Intune Administrator security group in Entra ID"/>
 <br />
 <br />
+</p>
 <p align="center">
 Setting up Windows automatic Intune enrollment. This is configured in Entra ID > Overview > Manage > Mobility (MDM and WIP) > Microsoft Intune: <br/>
 <img src="https://i.imgur.com/jsUY9Gr.png" height="100%" width="100%" alt="Setting up Intune Administrator security group in Entra ID"/>
+<br />
+<br />
+</p>
+<p align="center">
+Configuring the ability for users to join devices to Entra ID: <br/>
+<img src="https://i.imgur.com/jsUY9Gr.png" height="100%" width="100%" alt="Configuring the ability for users to join devices to Entra ID"/>
 <br />
 <br />
 </p>
