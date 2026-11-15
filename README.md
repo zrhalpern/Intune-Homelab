@@ -31,8 +31,8 @@ Setting up Windows automatic Intune enrollment. This is configured in Entra ID >
 <br />
 </p>
 <p align="center">
-Configuring the ability for users to join devices to Entra ID: <br/>
-<img src="https://i.imgur.com/jsUY9Gr.png" height="100%" width="100%" alt="Configuring the ability for users to join devices to Entra ID"/>
+Configuring the ability for users to join devices to Entra ID. This is configured in Entra ID > Overview > Devices > Device settings: <br/>
+<img src="https://i.imgur.com/tHFBTJU.png" height="100%" width="100%" alt="Configuring the ability for users to join devices to Entra ID"/>
 <br />
 <br />
 </p>
