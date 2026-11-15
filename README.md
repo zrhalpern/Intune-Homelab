@@ -19,7 +19,7 @@ This is documentation of me setting up my Intune homelab.
 <h2>Walk-through:</h2>
 
 <p align="center">
-Navigate to Scripts and remediations: <br/>
+Setting up my environment: <br/>
 <img src="https://i.imgur.com/Ob7ntBZ.png" height="80%" width="80%" alt="Navigate to Scripts and remediations"/>
 <br />
 <br />
